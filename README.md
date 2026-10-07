@@ -29,4 +29,4 @@ The goal of this project is to understand the basic Machine Learning workflow, i
 
 ## Author
 
-Kaushik
+ Khushi 
